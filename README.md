@@ -1,5 +1,5 @@
- Bank Loan Analysis Dashboard
- Overview
+# Bank Loan Analysis Dashboard
+# Overview
 A comprehensive Power BI dashboard for analyzing bank loan performance, risk assessment, and portfolio management. This project provides actionable insights into loan applications, funding patterns, repayments, and borrower demographics.
 
 https://Summary.png
