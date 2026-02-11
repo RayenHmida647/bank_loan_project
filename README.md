@@ -53,8 +53,8 @@ Steady Growth: 94% increase from January to December
 
 Seasonal Pattern: Higher activity in Q4 months
 
-### Technical Implementation
-Data Pipeline
+## Technical Implementation
+### Data Pipeline
 #### Data Source: MySQL database with comprehensive loan records
 
 #### SQL Processing: Custom queries for KPI calculation and aggregation
@@ -62,11 +62,11 @@ Data Pipeline
 #### Data Transformation: Power Query for cleaning and preparation
 
 #### Visualization: Power BI for interactive dashboard creation
-#### Dashboard Components
-### Data Model: Star schema with fact and dimension tables
+### Dashboard Components
+#### Data Model: Star schema with fact and dimension tables
 
-### Measures: 30+ DAX calculations for dynamic metrics
+#### Measures: 30+ DAX calculations for dynamic metrics
 
-### Visuals: 15+ interactive charts and tables
+#### Visuals: 15+ interactive charts and tables
 
 
