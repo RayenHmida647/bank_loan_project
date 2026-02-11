@@ -16,19 +16,19 @@ Risk assessment with DTI (Debt-to-Income) metrics
 Multi-dimensional analysis (State, Purpose, Term, Home Ownership)
 
 ## Dashboard Sections
-1. Summary Dashboard
+### 1. Summary Dashboard
    
 ![Dashboard Preview](images/Summary.png)
 
 High-level overview of key loan performance metrics including total applications, funded amounts, and portfolio health indicators.
 
-2. Overview Dashboard
+### 2. Overview Dashboard
 
 ![Dashboard Preview](images/Overview.png)
 
 Detailed analysis across multiple dimensions including monthly trends, loan purposes, and borrower demographics.
 
-3. Details Dashboard
+### 3. Details Dashboard
 
 ![Dashboard Preview](images/Details.png)
 
